@@ -35,11 +35,13 @@ Empreendedor tech com experiência prática em **transformar código em negócio
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Frameworks & Ferramentas
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ### Áreas de Expertise
+- ⚛️ **Frontend Modern**: React. js, SPA, Responsive Design
 - 🤖 **IoT & Embedded Systems**:  Raspberry, PIC, Arduino, Microcontroladores
 - 📱 **Mobile Development**: Android nativo (Java)
 - 🌐 **Web Development**: PHP (CodeIgniter 4), Full Stack
@@ -53,15 +55,20 @@ Empreendedor tech com experiência prática em **transformar código em negócio
 
 ### 💰 Projetos com Retorno Financeiro
 
-**📱 Apps Android (2017-2019)**
-- + de 15.000 dispositivos ativos *App RTSP CFTV*
-- Outros apps: QR Tech, Minhas Revendas.
-- Monetização via Google AdMob
-
 **🤖 Crypto Trading Bot Akhenathon (2024-atual)**
 - Sistema automatizado em Python para Binance Futures
 - Servidor de controle com PHP/CodeIgniter 4
 - Gerenciamento de risco e análise de mercado em tempo real
+
+**📄 [PDFacil.com.br](https://pdfacil.com.br) (2023-atual)**
+- Plataforma SaaS para geração de documentos PDF
+- Interface moderna em React.js
+- Diversos modelos prontos para diferentes necessidades
+
+**📱 Apps Android (2017-2019)**
+- + de 15.000 dispositivos ativos *App RTSP CFTV*
+- Outros apps: QR Tech, Minhas Revendas.
+- Monetização via Google AdMob
 
 **🛠️ Sistema de Gestão para Assistência Técnica (2019-atual)**
 - Sistema próprio de Ordem de Serviço
@@ -71,7 +78,7 @@ Empreendedor tech com experiência prática em **transformar código em negócio
 ## 💼 Experiência Profissional
 
 ```
-👨‍💼 Proprietário de Assistência Técnica e DEV        | 2019 - Atual
+👨‍💼 Proprietário de Assistência Técnica             | 2019 - Atual
    
 👨‍💻 Desenvolvedor Mobile/Web PJ                     | 2018 - 2019
    └─ Desenvolvimento de aplicações mobile e web para clientes
@@ -89,11 +96,23 @@ Bot automatizado para trading de futuros na Binance desenvolvido em Python, com 
 
 **Tech Stack:** Python, PHP, CodeIgniter 4, Binance API, WebSockets
 
+---
+
+### 📄 [PDFacil - Gerador de PDF Online](https://pdfacil.com.br)
+Plataforma web para geração de documentos PDF com modelos prontos e personalizáveis.  Interface intuitiva e moderna.
+
+**Tech Stack:** React.js, JavaScript, HTML5, CSS3
+
+**🌐 [Acesse o projeto ao vivo](https://pdfacil.com.br)**
+
+---
 
 ### 📱 [App Android - [RTSP CFTV]]
 Aplicativo Android que alcançou 15k+ usuários ativos com monetização via AdMob.
 
 **Tech Stack:** Java, Android Studio, AdMob
+
+---
 
 ### 🔌 [Projetos IoT Arduino/PIC] (https://drive.google.com/file/d/0B1zFsUzlEkomZGUyNGlyaFp4bU0/view?usp=sharing&resourcekey=0-7V3kcN0RFCck4ybAXqFQBw)
 Projetos com microcontroladores para automação e prototipagem.
