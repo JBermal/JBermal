@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm J-Bermal 👋
 
-<!--
-**JBermal/JBermal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer focused on building innovative solutions and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- **Languages:** Python, JavaScript, Java
+- **Frameworks & Libraries:** React, Node.js, Express
+- **Tools & Technologies:** Git, Docker, Linux
+- **Databases:** PostgreSQL, MongoDB, MySQL
+
+## 🌱 Currently Learning
+
+I'm always exploring new technologies and improving my skills in software development, cloud computing, and DevOps practices.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JBermal&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+
+- GitHub: [@JBermal](https://github.com/JBermal)
+- Feel free to reach out for collaborations or just a chat about technology!
+
+## 📫 How to Reach Me
+
+Open to interesting projects and collaboration opportunities. Feel free to open an issue or reach out through GitHub!
+
+---
+
+⭐️ From [JBermal](https://github.com/JBermal)
