@@ -1,6 +1,6 @@
-# Olá! 👋 Eu sou Juliano Bermal
+# Olá! Eu sou Juliano Bermal
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Desenvolvedor Full Stack com mais de 8 anos de experiência em programação, especializado em soluções que conectam **hardware e software**. Minha trajetória começou com microcontroladores (PIC, Arduino) e evoluiu para desenvolvimento mobile, web e automação. 
 
@@ -30,9 +30,9 @@ Empreendedor tech com experiência prática em **transformar código em negócio
 ### Linguagens
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396? style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E? style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Frameworks & Ferramentas
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
@@ -88,7 +88,7 @@ Empreendedor tech com experiência prática em **transformar código em negócio
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JBermalcomo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel. app/api/top-langs/? username=JBermalcomo&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBermalcomo&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -116,9 +116,9 @@ Projetos com microcontroladores para automação e prototipagem.
 
 ## 📫 Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](seu-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](seu-portfolio)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-bermal/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:julianobermal@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](---)
 
 ---
 
