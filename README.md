@@ -54,7 +54,7 @@ Empreendedor tech com experiência prática em **transformar código em negócio
 ### 💰 Projetos com Retorno Financeiro
 
 **📱 Apps Android (2017-2019)**
-- 15. 000+ dispositivos ativos *App RTSP CFTV*
+- + de 15.000 dispositivos ativos *App RTSP CFTV*
 - Outros apps: QR Tech, Minhas Revendas.
 - Monetização via Google AdMob
 
@@ -79,18 +79,6 @@ Empreendedor tech com experiência prática em **transformar código em negócio
 🔧 Desenvolvedor Independente                      | 2016 - Atual
    └─ Projetos pessoais em IoT, Mobile e Automação, Trading
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JBermalcomo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBermalcomo&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
