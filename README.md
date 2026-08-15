@@ -55,8 +55,17 @@ Empreendedor tech com experiência prática em **transformar código em negócio
 
 ### 💰 Projetos com Retorno Financeiro
 
-**🤖 Crypto Trading Bot Akhenathon (2024-atual)**
-- Sistema automatizado em Python para Binance Futures
+**📄 Sistema de gestão comercial com terminal PDV [PulsePDV](https://sistema.plugintech.com.br/) (2026-atual)**
+- Sistema de controle com PHP/CodeIgniter 4
+- Interface moderna
+- SAAS em produção
+
+**📄 Sistema de controle gestacional animal para a Bovinorte (2026-atual)**
+- Sistema de controle com PHP/CodeIgniter 4
+- Interface moderna 
+
+**🤖 Crypto Trading Bot Akhenatech [AKhenatech](https://akhenatech.com/) (2024-atual)**
+- Sistemas automatizados em Python para BingX e Binance Futures
 - Servidor de controle com PHP/CodeIgniter 4
 - Gerenciamento de risco e análise de mercado em tempo real
 
@@ -66,9 +75,9 @@ Empreendedor tech com experiência prática em **transformar código em negócio
 - Diversos modelos prontos para diferentes necessidades
 
 **📱 Apps Android (2017-2019)**
-- + de 15.000 dispositivos ativos *App RTSP CFTV*
-- Outros apps: QR Tech, Minhas Revendas.
-- Monetização via Google AdMob
+- + de 15.000 dispositivos ativos [*App RTSP CFTV*](https://apkpure.com/rtsp-cctv/br.com.plugintech.rtspcftv)
+- Outros apps: [QR Tech](https://apkpure.com/qr-tech-qr-code-reader/br.com.plugintech.qrtech), Minhas Revendas.
+
 
 **🛠️ Sistema de Gestão para Assistência Técnica (2019-atual)**
 - Sistema próprio de Ordem de Serviço
@@ -104,13 +113,6 @@ Plataforma web para geração de documentos PDF com modelos prontos e personaliz
 **Tech Stack:** React.js, JavaScript, HTML5, CSS3
 
 **🌐 [Acesse o projeto ao vivo](https://pdfacil.com.br)**
-
----
-
-### 📱 [App Android - [RTSP CFTV]]
-Aplicativo Android que alcançou 15k+ usuários ativos com monetização via AdMob.
-
-**Tech Stack:** Java, Android Studio, AdMob
 
 ---
 
